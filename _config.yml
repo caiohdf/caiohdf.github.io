@@ -118,3 +118,5 @@ compress_html:
   envs                    : [local]
 
 #languages: ["en", "pt"]
+
+theme: jekyll-theme-cayman
